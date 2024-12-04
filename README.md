@@ -1,5 +1,6 @@
 
 # Hi 👋, I'm Nihan Shahriar
+![](https://komarev.com/ghpvc/?username=NihanShahriarPalock&color=blue&style=for-the-badge)
 
 <div align="center">
     <h1><em>Technical Skills</em></h2>
